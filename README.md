@@ -1,1 +1,1 @@
-# "12dicts wordlist" is the small word list with 61442 words. "ngram_freq_dict" is a large word list sorted by the frequency of the words, with 313282 words. "every_english_word" is a large word list with 341122 words. "words_alpha" is a large word list with 370105 words.
+# None of these lists are my own. I am simply uploading my modified versions of them to make them easier to find.
